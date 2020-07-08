@@ -242,3 +242,62 @@ body{
     transform: translateY(50%);
     
 }
+
+.box-qr-invite{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+
+.text-wrapping{
+    line-height: 24px;
+    height: 24px;
+    display: flex;     
+    justify-content: center;    
+    align-items: center;
+    text-align: center;
+}
+
+
+.set-the-border{
+    border: 3px solid #ECECEC ;
+    width: 152px;
+    padding: 3px;
+    margin: 13px auto auto;
+}
+
+.spell-group-code{
+    display: block;
+    width: 100%;
+}
+
+
+
+.copy-link{
+    height: 30px;
+    border:2px solid #777;
+    font-size: 12px;
+    margin: 10px 0 0 ;
+    justify-content:space-between ;
+    display: flex;
+}    
+
+
+.click-the-copy-link{
+    color: #4A90E2;
+}
+
+
+.group-invite-please-in{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
