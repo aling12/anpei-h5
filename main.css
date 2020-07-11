@@ -161,7 +161,7 @@ body{
 }
 
 .pb{
-    padding-bottom: 31px;
+    padding-bottom: 21px;
 }
 
 .pull-down{
@@ -291,13 +291,173 @@ body{
 .group-invite-please-in{
     margin-top: 10px;
 }
+ 
+
+.activ{
+    position: relative;
+    padding: 20px;
+}
+
+
+.activity{
+    font-size: 25px;
+    color:#FF9E57;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.participation{
+    height: 21px;
+    width: 84px;
+    margin-top: 65px;
+    margin-left:30px;
+}
+
+.two-rule-two{
+    padding: 10px;
+}
+
+
+.two-rule{
+    font-size: 13px;
+    line-height:15px;
+    text-align: left;
+    margin-top: -5px;
+}
+
+.invite-the-successful{
+    width: 83px;   
+    height: 21px;
+    margin-left:30px;
+    margin-top: -30px;
+}
+
+.invite-the-successful-one{
+    padding: 10px;
+}
 
 
 
 
+.invite-the-successful-two{ 
+    font-size: 13px;
+    line-height:15px;
+    text-align: left;
+    margin-top: -5px;
+}   
+
+
+.benefits-noe{
+    width: 83px;
+    height: 21px;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+
+.benefits-three{
+    padding: 10px;
+}
+
+.benefits-four{
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+.else{
+    padding: 10px;
+    margin-top: -20px;
+}
+
+.else-one{
+    width: 83px;
+    height: 21px;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+
+
+.else-two{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+
+.activity-rules{
+    position: relative;
+}
+
+.activity-rules-one{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 18px;
+    width: 80px;
+}
+
+.participate{
+    width: 83px;
+    height: 21px;
+    margin-left: 10px;
+    margin-top: 45px;
+}
+
+.character-one{
+    font-size: 13px;
+    line-height: 15px;
+    text-align: left;
+    margin-top: -5px;
+}
 
 
 
 
+.character{
+    font-size: 13px;
+    text-align: justify;
+    margin: 6px auto auto;
+    width: 360px;
+}
+
+.Invite-the-successful-1{
+    width: 83px;
+    height: 21px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.Invite-the-successful-3{
+    font-size: 13px;
+    text-align: justify;
+    margin: auto auto;
+    width: 360px;
+}
 
 
+.benefits-1{
+    width: 83px;
+    height: 21px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+
+.benefits-2{
+    font-size: 13px;
+    text-align: justify;
+    margin: auto auto;
+    width: 360px;
+}
+
+.other{
+    width: 83px;
+    height: 21px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.other-1{
+    font-size: 13px;
+    text-align: justify;
+    margin: auto auto;
+    width: 360px;
+}
